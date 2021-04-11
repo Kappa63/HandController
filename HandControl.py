@@ -1,3 +1,7 @@
+'''
+Author: Karim Q.
+Date: 4/11/21
+'''
 import cv2
 import math
 import mediapipe
